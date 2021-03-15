@@ -32,13 +32,16 @@ while n !=1: # n이 1이 아닐경우 반복
         n /= k # n을 k로 나누고 
         count+=1 # count를 1추가
 
+
     else: # n을 k로 나누었을 때 나머지가 0이 아닐경우 
         if n > k: # n이 k보다 클 때
+            count+=(n%k)
             n-= (n%k) # n에서 n%k를 빼줌으로서 n을 k의 배수로 만든다.
-            count+=1
+
         else:
             # n이 k보다 작으면 n-1만큼 count에 더한다.
             count+=(n-1)
+
             break
 
 
