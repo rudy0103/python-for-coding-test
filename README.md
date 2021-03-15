@@ -9,8 +9,8 @@
 
 * 이론
     * 당장 좋은 것만 선택하는 그리디
-    * 거스름돈 문제: ([Python 3.8 코드](/3.Greedy/3-1_example.py))
+    * 거스름돈 문제: ([Python 3.8 코드](/3.Greedy/3-1/3-1_example.py))
 * 실전
-    * 동빈이의 큰 수의 법칙: ([Python 3.8 코드](/3.Greedy/3-2_byRudy.py))
-    * 숫자 카드게임: ([Python 3.8 코드](/3.Greedy/3-3_byRudy.py))
-    * 1이 될 때까지: ([Python 3.8 코드](/3.Greedy/3-4_byRudy.py))
+    * 동빈이의 큰 수의 법칙: ([Python 3.8 코드](/3.Greedy/3-2/3-2_byRudy.py))
+    * 숫자 카드게임: ([Python 3.8 코드](/3.Greedy/3-3/3-3_byRudy.py))
+    * 1이 될 때까지: ([Python 3.8 코드](/3.Greedy/3-4/3-4_byRudy.py))
